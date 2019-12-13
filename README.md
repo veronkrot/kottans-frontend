@@ -10,3 +10,6 @@
 
 ### GitHub & Collaboration
 ![GitHub & Collaboration](task_git_collaboration/task_git_collaboration3.png)
+
+## 3. Intro to HTML and CSS
+![Intro to HTML and CSS](task_html_css_intro/html_css1.png)
