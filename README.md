@@ -13,3 +13,6 @@
 
 ## 3. Intro to HTML and CSS
 ![Intro to HTML and CSS](task_html_css_intro/html_css1.png)
+![HTML Academy: HTML](task_html_css_intro/html1.png)
+![HTML Academy: HTML](task_html_css_intro/html2.png)
+![HTML Academy: HTML](task_html_css_intro/html3.png)
