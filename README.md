@@ -16,3 +16,5 @@
 ![HTML Academy: HTML](task_html_css_intro/html1.png)
 ![HTML Academy: HTML](task_html_css_intro/html2.png)
 ![HTML Academy: HTML](task_html_css_intro/html3.png)
+![HTML Academy: CSS](task_html_css_intro/CSS1.png)
+![HTML Academy: CSS](task_html_css_intro/CSS2.png)
