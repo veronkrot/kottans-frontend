@@ -22,3 +22,6 @@
 ## 4. Responsive Web Design
 ### Responsive Web Design Fundamentals
 ![Responsive Web Design](task_responsive_web_design/responsive_web_design.png)
+
+### Flexbox Froggy
+![Flexbox Froggy](task_responsive_web_design/flexbox.png)
