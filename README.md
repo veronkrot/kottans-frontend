@@ -18,3 +18,7 @@
 ![HTML Academy: HTML](task_html_css_intro/html3.png)
 ![HTML Academy: CSS](task_html_css_intro/CSS1.png)
 ![HTML Academy: CSS](task_html_css_intro/CSS2.png)
+
+## 4. Responsive Web Design
+### Responsive Web Design Fundamentals
+![Responsive Web Design](task_responsive_web_design/responsive_web_design.png)
