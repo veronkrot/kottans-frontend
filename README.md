@@ -25,3 +25,7 @@
 
 ### Flexbox Froggy
 ![Flexbox Froggy](task_responsive_web_design/flexbox.png)
+
+## 5. HTML & CSS practice
+[demo](https://veronkrot.github.io/HTML-CSS-Popup/)
+[Code base](https://github.com/veronkrot/HTML-CSS-Popup)
